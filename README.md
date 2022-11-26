@@ -1,6 +1,8 @@
 # GitLeaks
  Finder of Git Repository's  Leaks
 
+Data from: https://github.com/skalenetwork/skale-manager
+
 Before start the python file make in the windows console:
 
 1. Start git: git init
