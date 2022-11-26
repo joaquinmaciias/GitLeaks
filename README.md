@@ -13,5 +13,5 @@ Before start the python file make in the windows console:
 6. Extract data from Skale: git clone https://github.com/skalenetwork/skale-manager
 7. Run the python file: python git_leaks.py
 8. Deactivate virtual enviroment:
-8.1 Move to: cd .\env\Scripts\
-8.2 Start: deactivate
+- Move to: cd .\env\Scripts\
+ - Start: deactivate
